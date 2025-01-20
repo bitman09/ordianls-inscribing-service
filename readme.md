@@ -1,5 +1,7 @@
 # Ordinals Inscribing service
 
+#Bitcoin #Ordinals #inscription #services, including parent/child provenance, reinscription, bulk inscriptions, and #metadata #integration, #offering #efficient #solutions for #Bitcoin #inscription #minting and rare #satoshi handling.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -31,9 +33,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-A brief introduction to the Luminex Ordinal/Iscription Express Backend, highlighting its purpose and significance within the bitcoin ecosystem.
 
 ## Features
 
@@ -134,7 +133,6 @@ Descriptions of the schemas used in the API, including `TextInscription`, `FileI
 
 
 ## Contact Info
-I have provided the project structure and rune token deploy, mint, tranfer code part in the README to keep security and the NDA sign. For further technical support and development inquiries, please contact me here.  
 
 Telegram: [@diasibt](https://t.me/@diasibt)
 
